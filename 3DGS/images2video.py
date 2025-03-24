@@ -1,5 +1,15 @@
-#!/usr/bin/env python3
-# filepath: /home/hezongqi/images_to_video.py
+"""
+make frames of images to video
+
+python image2video.py 
+    --input /home/hezongqi/renders \
+    --output /home/hezongqi/output.mp4 \
+    --fps 60 \
+    --width 1920 \
+    --height 1080 \
+    --quality 98 \
+    --verbose
+"""
 
 import os
 import argparse
