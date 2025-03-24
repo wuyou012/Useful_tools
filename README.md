@@ -1,1 +1,1 @@
-personal used processing python file for learning 3DGS and other computer version tasks
+personal python processing files for 3DGS and other computer version tasks
